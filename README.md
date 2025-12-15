@@ -1,5 +1,4 @@
 # Heart-Disease-Prediction-Using-Clustering-And-Classification
-Heart Disease Prediction Using Machine Learning
 📌 Project Overview
 
 This project focuses on predicting the presence of heart disease using supervised machine learning techniques. Cardiovascular diseases are among the leading causes of death worldwide, and early prediction can significantly improve treatment outcomes. The goal of this academic project is to build, evaluate, and compare machine learning models that can assist in heart disease diagnosis using patient clinical data.
